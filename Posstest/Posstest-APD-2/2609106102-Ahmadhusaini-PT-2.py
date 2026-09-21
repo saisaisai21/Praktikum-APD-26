@@ -1,5 +1,5 @@
 merchandise_1 = 45000
-merchandise_2 = 50000 
+merchandise_2 = 50000
 merchandise_3 = 60000
 merchandise_4 = 75000
 merchandise_5 = 90000
