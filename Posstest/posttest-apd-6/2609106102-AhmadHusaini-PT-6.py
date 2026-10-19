@@ -158,4 +158,4 @@ while True:
 
     else:
         print("Pilihan tidak valid!")
-        input("Enter untuk lanjut")
+        input("Enter untuk lanjuut")
